@@ -1,0 +1,8 @@
+site_name: Service Documentation
+nav:
+  - Home: index.md
+skeleton/docs/index.md
+# Welcome to Your New Flask Service
+
+This documentation was generated automatically using Backstage TechDocs.
+
