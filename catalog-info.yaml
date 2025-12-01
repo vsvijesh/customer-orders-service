@@ -4,9 +4,8 @@ metadata:
   name: customer-orders-service
   description: REST API for customer order management
   annotations:
-    github.com/project-slug: ramannkhanna2/customer-orders-service
-    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: vsvijesh/customer-orders-service
 spec:
   type: service
-  owner: team-a
-  lifecycle: experimental
+  owner: user:vsvijesh
+  lifecycle: production
